@@ -1,2 +1,3 @@
-print ("Amalia :)")
+def name():
+    return print ("Amalia :)")
 
