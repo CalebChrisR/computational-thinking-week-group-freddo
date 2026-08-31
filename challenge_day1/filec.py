@@ -1,2 +1,3 @@
-print("Christopher Rojer")
+def name():
+    print("Christopher Rojer")
 
