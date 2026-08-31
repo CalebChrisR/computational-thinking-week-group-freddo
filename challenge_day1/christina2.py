@@ -1,1 +1,2 @@
-print("I am Christina")
+def name():
+    return print("I am Christina")
