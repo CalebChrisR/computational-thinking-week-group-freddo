@@ -1,2 +1,3 @@
-print ("Hello I am Amalia")
-# 
+def name():
+    print("Hello I am Amalia")
+
