@@ -1,2 +1,2 @@
-print ("Hello I am Amalia")
-# 
+print ("Amalia :)")
+
