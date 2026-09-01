@@ -1,7 +1,7 @@
 print("this is the solution to station 3")
 # if number is dividable by 3, it is true, if not it is false.
 
-num = input("Give me a number: ") 
+#num = input("Give me a number: ") 
 
 def solution_station_3 (num):
     if num % 3 == 0:
@@ -9,4 +9,5 @@ def solution_station_3 (num):
     else:
         print ("false")
 
+solution_station_3(7)
 
