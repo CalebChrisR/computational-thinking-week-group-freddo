@@ -13,7 +13,7 @@ def solution_station_7(sequence):
             split_apart[i] = "0.5"
     string_final = "".join(split_apart)        
     answer = eval(string_final)
-    return answer
+    return float(answer)
 
 '''
 a = 3
