@@ -1,10 +1,10 @@
-from datetime import datetime
-
-def day_week(date_string, date_format="%Y-%m-%d"):
+def solution_station_2(date_string, date_format="%Y-%m-%d"):
+    from datetime import datetime
     japanese_days = ["月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日", "日曜日"]
     dates = datetime.strptime(date_string, date_format)
     weekday_index = dates.weekday()
     
     return japanese_days[weekday_index]
 
-print(day_week("2024-09-02"))
+if __name__ == "__main__":
+    print(solution_station_2("2024-09-02"))
