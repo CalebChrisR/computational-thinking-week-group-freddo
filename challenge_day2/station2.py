@@ -6,3 +6,5 @@ def day_week(date_string, date_format="%Y-%m-%d"):
     weekday_index = dates.weekday()
     
     return japanese_days[weekday_index]
+
+print(day_week("2024-09-02"))
