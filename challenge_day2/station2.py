@@ -7,4 +7,4 @@ def day_week(date_string, date_format="%Y-%m-%d"):
     
     return japanese_days[weekday_index]
 
-print(day_week("2024-09-02”))
+print(day_week("2024-09-02"))
