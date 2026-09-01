@@ -1,4 +1,7 @@
 import math
 
 def solution_station_6(input_variable):
-    print(math.sin())
+    result = math.sin(input_variable)
+    print(round(result,4))
+
+
