@@ -9,5 +9,3 @@ def solution_station_3 (num):
     else:
         print ("false")
 
-solution_station_3(7)
-
