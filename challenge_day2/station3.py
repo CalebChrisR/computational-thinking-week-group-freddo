@@ -3,7 +3,7 @@ print("this is the solution to station 3")
 
 num = input("Give me a number: ") 
 
-def is_divisible_by_3 (num):
+def solution_station_3 (num):
     if num % 3 == 0:
         print("true")
     else:
