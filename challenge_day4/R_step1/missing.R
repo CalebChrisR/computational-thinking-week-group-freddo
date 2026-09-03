@@ -9,7 +9,7 @@ library(jsonlite)
 getwd()
 setwd("../fulldata")
 # Read the JSON file into a data frame
-json_data <- read_json("data1.json")
+json_data <- fromJSON("data1.json")
 
 # Convert the 'people' list to a data frame
 people_df <- as.data.frame(json_data$people)
