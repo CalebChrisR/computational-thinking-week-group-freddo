@@ -7,7 +7,7 @@ if (!requireNamespace("jsonlite", quietly = TRUE)) {
 library(jsonlite)
 
 getwd()
-setwd("challenge_day4/testdata")
+#setwd("challenge_day4/testdata")
 # Read the JSON file into a data frame
 json_data <- read_json("data1.json")
 
