@@ -5,6 +5,6 @@ def solution_station_6(input_variable: float):
     return round(result,4)
 
 if __name__ == "__main__":
-    print(solution_station_6(1.7))
+    print(solution_station_6(32))
 
 
