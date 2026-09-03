@@ -6,10 +6,8 @@ if (!requireNamespace("jsonlite", quietly = TRUE)) {
 # Load the required library
 library(jsonlite)
 
-getwd()
-setwd("../fulldata")
 # Read the JSON file into a data frame
-json_data <- read_json("data1.json")
+json_data <- fromJSON("data1.json")
 
 # Convert the 'people' list to a data frame
 people_df <- as.data.frame(json_data$people)
@@ -26,7 +24,7 @@ for(col_name in names(people_df)) {
 }
 
 # Replace the 'people' list in the original data with the modified data frame
-json_data$people <- people_df
+json_data$people <- person_df
 
 # Convert the updated data back to JSON format
 json_text <- toJSON(json_data, pretty = TRUE)
