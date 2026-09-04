@@ -30,6 +30,7 @@ def act3_par3 ():
     " They think of c4's devotion, Lady Gaga’s singing prowess, Judas and Jesus' relationship, and " \
     "finally c6's eccentricness. With a pop, the wicked witch hat suddenly looks much better. It can probably travel through time now. ")
 
-act1_par3()
-act2_par3()
-act3_par3()
+if __name__ == "__main__":
+    act1_par3()
+    act2_par3()
+    act3_par3()

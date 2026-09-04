@@ -19,7 +19,8 @@ def act3_par2 ():
 " “I can fix your hat,” they tell Steve. Steve hands over the Witch's hat, drawing the" \
 " attention of c4, Judas, and c3. This is the first time in a week that their" \
 " attention is broken from Jesus' resting place.")
-    
-act1_par2()
-act2_par2()
-act3_par2()
+
+if __name__ == "__main__":
+    act1_par2()
+    act2_par2()
+    act3_par2()

@@ -21,7 +21,7 @@ def act3_par4():
     "ch3 loves the song, and starts thinking of a way to accompany him. " \
     "Judas and Mary turn back to the resting place in awe as the stone at Jesus’ cave moves until suddenly, Jesus it out. " \
     "“Did you miss me?”")
-
-act1_par4()
-act2_par4()
-act3_par4()
+if __name__ == "__main__":
+    act1_par4()
+    act2_par4()
+    act3_par4()

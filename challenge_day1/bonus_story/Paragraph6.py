@@ -17,6 +17,7 @@ def act3_par6():
     'travelling through time again. The c2 and c3 continu their concert. c4, Judas, '
     'and Jesus remain together, happy that they are together again.')
 
-act1_par6()
-act2_par6() 
-act3_par6()
+if __name__ == "__main__":
+    act1_par6()
+    act2_par6() 
+    act3_par6()
