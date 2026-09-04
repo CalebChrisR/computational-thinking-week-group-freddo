@@ -26,6 +26,6 @@ if __name__ == "__main__":
     act3_par2()
 
 
-def replace_holyspirit(chnum, text):
-    print(text.replace(chnum, "Holy Spirit"))
+def replace_holyspirit(text):
+    print(text.replace("ch2", "Holy Spirit"))
     
