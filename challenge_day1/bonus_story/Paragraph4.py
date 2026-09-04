@@ -17,7 +17,7 @@ def act2_par4():
 #ACT 3
 def act3_par4():
     print ("Steve takes the hat, and with a pop summons a guitar. " \
-    "He starts strumming it, much to the enjoyment of ch2. " \
+    "He starts strumming it, much to the enjoyment of Holy Spirit. " \
     "Lady Gaga loves the song, and starts thinking of a way to accompany him. " \
     "Judas and Mary turn back to the resting place in awe as the stone at Jesus’ cave moves until suddenly, Jesus it out. " \
     "'Did you miss me?'")
