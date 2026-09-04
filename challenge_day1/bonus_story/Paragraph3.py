@@ -18,3 +18,7 @@ def act3_par3 ():
     print("The c2 calls on all the good memories they shared with c1 and the gang." \
     " They think of c4's devotion, Lady Gaga’s singing prowess, c5 and c1' relationship, and " \
     "finally c6's eccentricness. With a pop, the wicked witch hat suddenly looks much better. It can probably travel through time now. ")
+
+act1_par3()
+act2_par3()
+act3_par3()
