@@ -1,6 +1,6 @@
 from day_1 import filec, christina2, file_amalia, fileh, green, iris
 
-from bonus_story import paragraph1, paragraph2, paragraph3, paragraph4, paragraph5, paragraph6
+from bonus_story import Paragraph1, Paragraph2, Paragraph3, Paragraph4, Paragraph5, Paragraph6
 
 def func1():
     print ("This is team Freddo, we are:")
@@ -19,29 +19,28 @@ if __name__  == "__main__":
 
     # bonus challenge start
     # act 1
-    paragraph1.act1_par1()
-    paragraph2.act1_par2()
-    paragraph3.act1_par3()
-    paragraph4.act1_par4()
-    paragraph5.act1_par5()
-    paragraph6.act1_par6()
+    Paragraph1.act1_par1()
+    Paragraph2.act1_par2()
+    Paragraph3.act1_par3()
+    Paragraph4.act1_par4()
+    Paragraph5.act1_par5()
+    Paragraph6.act1_par6()
     print()
 
     # act 2
-    paragraph1.act2_par1()
-    paragraph2.act2_par2()
-    paragraph3.act2_par3()
-    paragraph4.act2_par4()
-    paragraph5.act2_par5()
-    paragraph6.act2_par6()    
+    Paragraph1.act2_par1()
+    Paragraph2.act2_par2()
+    Paragraph3.act2_par3()
+    Paragraph4.act2_par4()
+    Paragraph5.act2_par5()
+    Paragraph6.act2_par6()    
     print()
 
     # act 3
-    paragraph1.act3_par1()
-    paragraph2.act3_par2()
-    paragraph3.act3_par3()
-    paragraph4.act3_par4()
-    paragraph5.act3_par5()
-    paragraph6.act3_par6()    
+    Paragraph1.act3_par1()
+    Paragraph2.act3_par2()
+    Paragraph3.act3_par3()
+    Paragraph4.act3_par4()
+    Paragraph5.act3_par5()
+    Paragraph6.act3_par6()    
     print()
-
