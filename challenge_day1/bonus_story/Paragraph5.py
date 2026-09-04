@@ -1,6 +1,6 @@
 #ACT 1
 def act1_par5():
-    print ("“I can’t help it Mary, I was born this way,” Jesus responds and continues crying. " \
+    print ("'I can’t help it Mary, I was born this way,' Jesus responds and continues crying. " \
     "Lady Gaga gives a proud look, while Steve, Judas, and the Holy Spirit start clapping.")
 
 
@@ -15,7 +15,7 @@ def act2_par5():
 def act3_par5(): 
     print ("There’s a happy shout as Mary and Judas give Jesus a hug. " \
     "Lady Gaga bursts into song, accompanying Steve’s guitar. " \
-    "“I can’t remember, but it’s alright a-alright. Just Dance!” " \
+    "'I can’t remember, but it’s alright a-alright. Just Dance!' " \
     "The Holy Spirit summons a dance floor and lights.")
 
 if __name__ == "__main__":
