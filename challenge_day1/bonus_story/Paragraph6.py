@@ -23,9 +23,7 @@ if __name__ == "__main__":
     act3_par6()
 
 
-tester = "Hi, I am ch2."
 def replace_steve(chnum, text):
     print(text.replace(chnum, "Steve"))
 
-replace_steve("ch2", tester)
 
