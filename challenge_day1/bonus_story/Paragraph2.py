@@ -7,11 +7,11 @@ def act1_par2 ():
 
 # Act 2
 def act2_par2 ():
-    print("“What?” Asks Jesus, confused why Steve would call it a last supper. " \
-"“This is just normal supper.” Judas, feeling that his secret is up, buries his face" \
-" in the wine, determined not to think about it. Mary and Lady Gaga are a little too in" \
+    print(" 'What?' Asks Jesus, confused why Steve would call it a last supper. " \
+" 'This is just normal supper.' Judas, feeling that his secret is up, buries his face " \
+" in the wine, determined not to think about it. Mary and Lady Gaga are a little too in " \
 " their cups, and gossip about who is gonna win the local dog race. The Holy Spirit" \
-" turns the wine back into water, because they're sober.")
+" turns the wine back into water, because they are sober.")
 
 # Act 3
 def act3_par2 ():
