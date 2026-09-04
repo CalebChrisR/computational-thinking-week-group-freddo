@@ -1,4 +1,4 @@
-import filec, christina2, file_amalia, fileh, green, iris
+from day_1 import filec, christina2, file_amalia, fileh, green, iris
 
 from bonus_story import paragraph1, paragraph2, paragraph3, paragraph4, paragraph5, paragraph6
 
