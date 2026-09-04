@@ -44,4 +44,3 @@ if __name__  == "__main__":
     Paragraph5.act3_par5()
     Paragraph6.act3_par6()    
     print()
-
