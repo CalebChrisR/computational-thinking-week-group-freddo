@@ -1,12 +1,12 @@
 #ACT 1
 def act1_par5():
     print ("“I can’t help it c4, I was born this way,” c1 responds and continues crying. " \
-    "c3 gives a proud look, while c6, Judas, and the c2 start clapping.")
+    "Lady Gaga gives a proud look, while c6, Judas, and the c2 start clapping.")
 
 
 #ACT 2
 def act2_par5():
-    print ("c1 and Judas can still faintly hear c3’s song of Judas, but they try to ignore her. " \
+    print ("c1 and Judas can still faintly hear Lady Gaga’s song of Judas, but they try to ignore her. " \
     "c4 and the c2 watch and Judas kisses c1’ cheek and murmurs something, " \
     "but are then horrified when c1 is arrested. c6 perks up at the commotion and stops eating.")
 
@@ -14,7 +14,7 @@ def act2_par5():
 #ACT 3
 def act3_par5(): 
     print ("There’s a happy shout as c4 and Judas give c1 a hug. " \
-    "c3 bursts into song, accompanying c6’s guitar. " \
+    "Lady Gaga bursts into song, accompanying c6’s guitar. " \
     "“I can’t remember, but it’s alright a-alright. Just Dance!” " \
     "The c2 summons a dance floor and lights.")
 
