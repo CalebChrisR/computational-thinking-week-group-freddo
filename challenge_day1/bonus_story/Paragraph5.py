@@ -6,7 +6,7 @@ def act1_par5():
 
 #ACT 2
 def act2_par5():
-    print ("Jesus and Judas can still faintly hear c3’s song of Judas, but they try to ignore her. " \
+    print ("Jesus and Judas can still faintly hear Lady Gaga’s song of Judas, but they try to ignore her. " \
     "Mary and the Holy Spirit watch and Judas kisses Jesus’ cheek and murmurs something, " \
     "but are then horrified when Jesus is arrested. Steve perks up at the commotion and stops eating.")
 
