@@ -15,8 +15,8 @@ def act3_par6():
     print('Steve, upon seeing that they are all hapy, pops his guitar away and bows. '
     '“I will see you next time.” With a twist of his hat, he disappears once more, '
     'travelling through time again. The c2 and c3 continu their concert. c4, c5, '
-    'and c1 remain together, happy that they are together again. ')
+    'and c1 remain together, happy that they are together again.')
 
 act1_par6()
-act2_par6()
+act2_par6() 
 act3_par6()
