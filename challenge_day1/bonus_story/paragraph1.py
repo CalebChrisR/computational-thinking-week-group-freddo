@@ -22,7 +22,7 @@ def act3_par1():
     print(
         "Steve appears with a burst of light. His witch hat looks a little sad, he can't travel through time anymore :(." \
         "Mary, Judas, and the ch2 wait outside Jesus' resting place." \
-        "Lady Gaga, for once, is not singing, understanding the serious situation.)"
+        "Lady Gaga, for once, is not singing, understanding the serious situation."
     )
     return
 
