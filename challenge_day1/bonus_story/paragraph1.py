@@ -20,7 +20,7 @@ def act3_par1():
         "ch3, for once, is not singing, understanding the serious situation."
     return text
 
-def replace_ch1(text: str):
+def replace_jesus(text: str):
     text.replace("ch1", "Jesus")
     return text
 
