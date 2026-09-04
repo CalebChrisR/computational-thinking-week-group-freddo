@@ -1,4 +1,16 @@
 from bonus_story import paragraph1 as par1, Paragraph2 as par2, Paragraph3 as par3, Paragraph4 as par4, Paragraph5 as par5, Paragraph6 as par6
+from day_1 import filec, christina2, file_amalia, fileh, green, iris
+
+
+def func1():
+    print ("This is team Freddo, we are:")
+    filec.name()
+    christina2.name()
+    file_amalia.name()
+    fileh.name()
+    green.name()
+    iris.name()
+    print()
 
 text = "" 
 t1 = par1.act1_par1()
