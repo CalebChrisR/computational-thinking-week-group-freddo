@@ -19,7 +19,7 @@ def act3_par5():
     "The ch2 summons a dance floor and lights.")
 
 
-def replace_Judas(text: str):
+def replace_judas(text: str):
     text.replace("ch5", "Judas")
     return text
 
