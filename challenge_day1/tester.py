@@ -20,9 +20,9 @@ t14=par2.act3_par2()
 t15=par3.act3_par3()
 t16=par4.act3_par4()
 t17=par5.act3_par5()
-y18=par6.act3_par6()    
+t18=par6.act3_par6()    
 
-text = t1+t2+t3+t4+t5+t6+t7+t8+t9+t10+t11+t12+t13+t14+t15+t16+t17+18
+text = t1+t2+t3+t4+t5+t6+t7+t8+t9+t10+t11+t12+t13+t14+t15+t16+t17+t18
 
 
 
