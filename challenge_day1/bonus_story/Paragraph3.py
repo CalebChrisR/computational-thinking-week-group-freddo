@@ -25,5 +25,5 @@ if __name__ == "__main__":
     act3_par3()
     pass
 
-def replace_ladygaga(text):
-    return(text.replace("ch3", "Lady Gaga"))
+def replace_ladygaga(text: str):
+    return(str(text).replace("ch3", "Lady Gaga"))

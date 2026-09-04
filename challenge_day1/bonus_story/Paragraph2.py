@@ -27,5 +27,5 @@ if __name__ == "__main__":
 
 
 def replace_holyspirit(text):
-    print(text.replace("ch2", "Holy Spirit"))
+    return str(text).replace("ch2", "Holy Spirit")
     

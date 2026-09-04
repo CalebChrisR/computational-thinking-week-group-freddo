@@ -24,12 +24,13 @@ t18=par6.act3_par6()
 
 text = t1+t2+t3+t4+t5+t6+t7+t8+t9+t10+t11+t12+t13+t14+t15+t16+t17+t18
 
-par1.replace_jesus(text)
-par2.replace_holyspirit(text)
-par3.replace_ladygaga(text)
-par4.replace_mary(text)
-par5.replace_judas(text)
-par6.replace_steve(text)
+text = par1.replace_jesus(text)
+text = par2.replace_holyspirit(text)
+text = par3.replace_ladygaga(text)
+text = par4.replace_mary(text)
+text = par5.replace_judas(text)
+text = par6.replace_steve(text)
 
+print(text)
 
 

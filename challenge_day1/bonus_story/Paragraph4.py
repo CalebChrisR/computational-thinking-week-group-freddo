@@ -24,7 +24,8 @@ def act3_par4():
 
 
 def replace_mary(text):
-    return(text.replace("ch4", "Mary")) 
+    return(str(text).replace("ch4", "Mary")) 
+
 if __name__ == "__main__":
     act1_par4()
     act2_par4()

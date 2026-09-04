@@ -24,6 +24,6 @@ if __name__ == "__main__":
 
 
 def replace_steve(text):
-    return(text.replace("ch6", "Steve"))
+    return(str(text).replace("ch6", "Steve"))
 
 

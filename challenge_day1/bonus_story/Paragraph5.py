@@ -20,8 +20,8 @@ def act3_par5():
 
 
 def replace_judas(text: str):
-    text.replace("ch5", "Judas")
-    return text
+    return str(text).replace("ch5", "Judas")
+
 
 if __name__ == "__main__":
     act1_par5()

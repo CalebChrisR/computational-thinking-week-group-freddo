@@ -21,7 +21,7 @@ def act3_par1():
     return text
 
 def replace_jesus(text: str):
-    return text.replace("ch1", "Jesus")
+    return str(text).replace("ch1", "Jesus")
 
 
 def main():
