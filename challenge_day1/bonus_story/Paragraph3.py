@@ -1,7 +1,7 @@
 
 # Act 1
 def act1_par3 ():
-    print("As ch4 predicted, ch1 starts screaming, because he is a newborn baby. " \
+    return("As ch4 predicted, ch1 starts screaming, because he is a newborn baby. " \
     "The ch2 gives him strength to scream loud. Lady Gaga cannot outsing ch1 right now, " \
     "and ch5 is perplexed by how loud ch1 is. ch6 pulls down the witch hat over his ears to block out the noise.") 
 
@@ -15,7 +15,7 @@ def act2_par3 ():
 
 # Act 3
 def act3_par3 ():
-    print("The ch2 calls on all the good memories they shared with ch1 and the gang." \
+    return("The ch2 calls on all the good memories they shared with ch1 and the gang." \
     " They think of ch4's devotion, Lady Gaga’s singing prowess, ch5 and ch1' relationship, and " \
     "finally ch6's eccentricness. With a pop, the wicked witch hat suddenly looks much better. It can probably travel through time now. ")
 
@@ -26,4 +26,4 @@ if __name__ == "__main__":
     pass
 
 def replace_ladygaga(text):
-    print(text.replace("ch3", "Lady Gaga"))
+    return(text.replace("ch3", "Lady Gaga"))
