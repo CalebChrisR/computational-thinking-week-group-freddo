@@ -2,7 +2,7 @@
 def act1_par2 ():
     print("Jesus takes a breath. The Holy Spirit flows within Jesus, and also c4. " \
 "c4 is kind of relieved to be done with the birth. Judas can predict the baby " \
-"screams. c3 knows she's gonna have to sing louder once Jesus starts crying. " \
+"screams. Lady Gaga knows she's gonna have to sing louder once Jesus starts crying. " \
 "screams. Lady Gaga knows she's gonna have to sing louder once c1 starts crying. " \
 "Steve stops dancing to get the witch hat on.")
 
@@ -18,7 +18,7 @@ def act2_par2 ():
 def act3_par2 ():
     print("The Holy Spirit realises that they have the power to change this." \
 " “I can fix your hat,” they tell Steve. Steve hands over the Witch's hat, drawing the" \
-" attention of c4, Judas, and c3. This is the first time in a week that their" \
+" attention of c4, Judas, and Lady Gaga. This is the first time in a week that their" \
 " attention is broken from Jesus' resting place.")
 
 if __name__ == "__main__":
@@ -26,8 +26,6 @@ if __name__ == "__main__":
     act2_par2()
     act3_par2()
 
-" attention of c4, Judas, and Lady Gaga. This is the first time in a week that their" \
-" attention is broken from c1' resting place.")
     
 act1_par2()
 act2_par2()

@@ -3,7 +3,7 @@
 def act1_par1():
     print(
         "Jesus is born in the manger. His mother, ch4, just knows that the ch2 is with him." \
-        "ch3 is dancing to a song which calls on Judas. Steve is vibing the corner, doing an interpretive dance. It seems wicked..."
+        "Lady Gaga is dancing to a song which calls on Judas. Steve is vibing the corner, doing an interpretive dance. It seems wicked..."
         "ch1 is born in the manger. His mother, ch4, just knows that the ch2 is with him." \
         "Lady Gaga is dancing to a song which calls on Judas. Steve is vibing the corner, doing an interpretive dance. It seems wicked..."
     )
@@ -23,7 +23,7 @@ def act3_par1():
     print(
         "Steve appears with a burst of light. His witch hat looks a little sad, he can't travel through time anymore :(." \
         "ch4, Judas, and the ch2 wait outside Jesus' resting place." \
-        "ch3, for once, is not singing, understanding the serious situation.)"
+        "Lady Gaga, for once, is not singing, understanding the serious situation.)"
         "ch4, Judas, and the ch2 wait outside ch1' resting place." \
         "Lady Gaga, for once, is not singing, understanding the serious situation.)"
     )
