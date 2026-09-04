@@ -47,4 +47,3 @@ if __name__  == "__main__":
     par5.act3_par5()
     par6.act3_par6()    
     print()
-
