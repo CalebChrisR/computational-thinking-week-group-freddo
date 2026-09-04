@@ -1,7 +1,7 @@
 def act1_par6():
     print('Steve cannot stand the screaming, “I am out of here,” so he twists '
     'the witch hat, and disappears. Jesus is so startled that he stops screaming. '
-    'c4 gets a little scared, and cradles c1 closer. Lady Gaga, inspired by c1, starts '
+    'c4 gets a little scared, and cradles Jesus closer. Lady Gaga, inspired by Jesus, starts '
     'singing “born this way.” The c2 is not confused, and just chills. Judas is a bit ' 
     'upset they are no longer singing Judas.')
 
@@ -15,9 +15,12 @@ def act3_par6():
     print('Steve, upon seeing that they are all hapy, pops his guitar away and bows. '
     '“I will see you next time.” With a twist of his hat, he disappears once more, '
     'travelling through time again. The c2 and c3 continu their concert. c4, Judas, '
+    'and Jesus remain together, happy that they are together again.'
+    'travelling through time again. The c2 and Lady Gaga continu their concert. c4, Judas, '
     'and Jesus remain together, happy that they are together again.')
 
 if __name__ == "__main__":
     act1_par6()
     act2_par6() 
     act3_par6()
+    
