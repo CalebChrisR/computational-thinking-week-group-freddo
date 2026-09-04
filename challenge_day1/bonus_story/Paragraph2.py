@@ -26,6 +26,3 @@ if __name__ == "__main__":
     act3_par2()
 
     
-act1_par2()
-act2_par2()
-act3_par2()

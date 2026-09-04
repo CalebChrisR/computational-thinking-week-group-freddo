@@ -7,9 +7,10 @@ def act1_par3 ():
 
 # Act 2
 def act2_par3 ():
-    print("Steve nods, “I am sure it is…” He indicates to the food, “I want your everything as long as it is free.” c1 gestures" \
+    print("Steve nods, “I am sure it is…” He indicates to the food, “I want your everything as long as it's free.” c1 gestures" \
     " at the food and nods. Realising that another person is joining their dinner, the c2 sets a new place for Steve." \
-    )
+    " Judas starts getting nervous as he realises that time is running out for his betrayal. c4 and Lady Gaga are still gossiping about the local dog race."
+)
 
 
 # Act 3
@@ -22,3 +23,4 @@ if __name__ == "__main__":
     act1_par3()
     act2_par3()
     act3_par3()
+    pass
