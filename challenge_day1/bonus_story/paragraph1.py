@@ -2,13 +2,13 @@
 
 def act1_par1():
     print(
-        "ch1 is born in the manger. His mother, ch4, just knows that the ch2 is with him." \
+        "Jesus is born in the manger. His mother, ch4, just knows that the ch2 is with him." \
         "ch3 is dancing to a song which calls on Judas. Steve is vibing the corner, doing an interpretive dance. It seems wicked..."
     )
     return
 def act2_par1():
     print(
-        "Time has passed. ch1 is hosting supper. Judas, howeever, knows it's the last supper for them all. " \
+        "Time has passed. Jesus is hosting supper. Judas, howeever, knows it's the last supper for them all. " \
         "The ch2 allows water to turn to wine, and they are all fed. " \
         "ch4 and ch3 sit in the corner sipping on some spirit (not holy), " \
         "ch4 adds tomato juice to hers. 'This is kind of good,'ch3 remarks after trying it." \
@@ -20,7 +20,7 @@ def act2_par1():
 def act3_par1():
     print(
         "Steve appears with a burst of light. His witch hat looks a little sad, he can't travel through time anymore :(." \
-        "ch4, Judas, and the ch2 wait outside ch1' resting place." \
+        "ch4, Judas, and the ch2 wait outside Jesus' resting place." \
         "ch3, for once, is not singing, understanding the serious situation.)"
     )
     return
