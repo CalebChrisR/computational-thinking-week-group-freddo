@@ -1,7 +1,7 @@
 #ACT 1
 def act1_par4():
     print ("Mary asks Jesus, 'why cant you stop screaming.' " \
-    "ch3 stops singing Judas so that they can hear Jesus answer. " \
+    "Lady Gaga stops singing Judas so that they can hear Jesus answer. " \
     "Holy Spirit passes through Jesus to quiet Jesus’ screaming so that he can answer. " \
     "Steve fiddles with his witch hat.")
 
