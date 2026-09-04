@@ -1,4 +1,5 @@
-# TODO: write init paragraph
+# Paragraph 1's for each act, 
+# Character 1 became Jesus
 
 def act1_par1():
     print(
