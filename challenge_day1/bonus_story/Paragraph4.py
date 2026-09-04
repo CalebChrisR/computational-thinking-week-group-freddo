@@ -1,6 +1,6 @@
 #ACT 1
 def act1_par4():
-    print ("Mary asks ch1, “why can’t you stop screaming.” " \
+    print ("Mary asks ch1, “why cant you stop screaming.” " \
     "ch3 stops singing ch5 so that they can hear Jesus answer. " \
     "ch2 passes through ch1 to quiet ch1’ screaming so that he can answer. " \
     "ch6 fiddles with his witch hat.")
