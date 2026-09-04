@@ -27,8 +27,7 @@ if __name__  == "__main__":
     par5.act1_par5()
     par6.act1_par6()
 
-    act1 = act1_1 + act1_2 + act1_3 + act1_4 + act1_5 + act1_6
-    print(act1)
+
 
     # act 2
     par1.act2_par1()
