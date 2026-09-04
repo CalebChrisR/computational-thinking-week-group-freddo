@@ -25,4 +25,23 @@ if __name__  == "__main__":
     paragraph4.act1_par4()
     paragraph5.act1_par5()
     paragraph6.act1_par6()
+    print()
+
+    # act 2
+    paragraph1.act2_par1()
+    paragraph2.act2_par2()
+    paragraph3.act2_par3()
+    paragraph4.act2_par4()
+    paragraph5.act2_par5()
+    paragraph6.act2_par6()    
+    print()
+
+    # act 3
+    paragraph1.act3_par1()
+    paragraph2.act3_par2()
+    paragraph3.act3_par3()
+    paragraph4.act3_par4()
+    paragraph5.act3_par5()
+    paragraph6.act3_par6()    
+    print()
 
