@@ -18,7 +18,7 @@ def act3_par5():
     "“I can’t remember, but it’s alright a-alright. Just Dance!” " \
     "The c2 summons a dance floor and lights.")
 
-
-act1_par5()
-act2_par5()
-act3_par5()
+if __name__ == "__main__":
+    act1_par5()
+    act2_par5()
+    act3_par5()
