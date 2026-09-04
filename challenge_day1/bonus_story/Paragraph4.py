@@ -2,11 +2,11 @@
 def act1_par4():
     print ("Mary asks Jesus, “why cant you stop screaming.” " \
     "ch3 stops singing Judas so that they can hear Jesus answer. " \
-    "ch2 passes through Jesus to quiet Jesus’ screaming so that he can answer. " \
+    "Holy Spirit passes through Jesus to quiet Jesus’ screaming so that he can answer. " \
     "Steve fiddles with his witch hat."\
    "Mary asks ch1, “why cant you stop screaming.” " \
     "Lady Gaga stops singing Judas so that they can hear Jesus answer. " \
-    "ch2 passes through ch1 to quiet ch1’ screaming so that he can answer. " \
+    "Holy Spirit passes through ch1 to quiet ch1’ screaming so that he can answer. " \
     "ch6 fiddles with his witch hat.")
 
 #ACT 2
@@ -17,7 +17,7 @@ def act2_par4():
     "They walk to the garden to escape Lady Gaga's singing of the song Judas. " \
     "Everyone notices them leaving, and peek out the window. " \
     "Steve, however, knowing what happens, stays sat at the table, enjoying the meal. " \
-    "Mary and ch2 give each other the side eye, " \
+    "Mary and Holy Spirit give each other the side eye, " \
     "when they see Jesus and Judas standing near each other. ")
 
 #ACT 3

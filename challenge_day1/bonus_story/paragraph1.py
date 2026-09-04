@@ -30,5 +30,6 @@ def main():
     act1_par1()
     act2_par1()
     act3_par1()
+    
 if __name__ == "__main__":
     main()
