@@ -12,13 +12,11 @@ def act2_par6():
     'problem,” and twists the hat to disappear.')
 
 def act3_par6():
-    print('Steve, upon seeing that they are all hapy, pops his guitar away and bows. '
+    print('Steve, upon seeing that they are all happy, pops his guitar away and bows. '
     '“I will see you next time.” With a twist of his hat, he disappears once more, '
-    'travelling through time again. The c2 and c3 continu their concert. c4, Judas, '
-    'and Jesus remain together, happy that they are together again.'
-    'travelling through time again. The c2 and Lady Gaga continu their concert. c4, Judas, '
+    'travelling through time again. The c2 and Lady Gaga continue their concert. c4, Judas, '
     'and Jesus remain together, happy that they are together again.')
-
+    
 if __name__ == "__main__":
     act1_par6()
     act2_par6() 
