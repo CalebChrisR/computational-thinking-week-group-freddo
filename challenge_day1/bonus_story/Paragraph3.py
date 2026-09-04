@@ -7,7 +7,7 @@ def act1_par3 ():
 
 # Act 2
 def act2_par3 ():
-    print("ch6 nods, “I am sure it is…” He indicates to the food, “I want your everything as long as it's free.” ch1 gestures" \
+    return("ch6 nods, “I am sure it is…” He indicates to the food, “I want your everything as long as it's free.” ch1 gestures" \
     " at the food and nods. Realising that another person is joining their dinner, the ch2 sets a new place for ch6." \
     " ch5 starts getting nervous as he realises that time is running out for his betrayal. ch4 and ch3 are still gossiping about the local dog race."
 )
